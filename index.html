@@ -12,7 +12,9 @@
     <!-- Leaflet CSS untuk Peta -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <!-- Preload gambar kritis -->
-    <link rel="preload" href="https://images.unsplash.com/photo-1552465011-b4e30bf7349d?q=80&w=3840&auto=format" as="image" fetchpriority="high">
+    <link rel="preload" href="https://www.nopostcode.com/wp-content/uploads/2022/08/Kelingking-Beach-Nusa-Penida-61-1.jpg" as="image" fetchpriority="high">
+    <link rel="preload" href="https://indonesiajuara.asia/wp-content/uploads/2023/11/raja-ampat_11zon.webp" as="image">
+    <link rel="preload" href="https://images.unsplash.com/photo-1537996194471-e657df975ab4?q=80&w=4032&auto=format&fit=crop" as="image">
 </head>
 <body>
     <!-- Loading Screen HD -->
@@ -147,6 +149,24 @@
                         Indonesia adalah negara dengan kekayaan budaya yang luar biasa. Setiap wilayah memiliki kearifan lokal yang unik dan bernilai tinggi. 
                         Pilih salah satu wilayah di peta untuk memulai eksplorasi Anda.
                     </p>
+                    <div class="welcome-images">
+                        <div class="welcome-image-item">
+                            <img src="https://indonesiajuara.asia/wp-content/uploads/2023/11/raja-ampat_11zon.webp" 
+                                 alt="Budaya Indonesia" 
+                                 loading="lazy"
+                                 width="3840"
+                                 height="2160">
+                            <p class="image-caption">Keindahan Alam dan Budaya Nusantara</p>
+                        </div>
+                        <div class="welcome-image-item">
+                            <img src="https://dragongraff.com/wp-content/uploads/2024/06/Tradisi-Ragam-Adat-Suku-di-Indonesia.jpg" 
+                                 alt="Tradisi Indonesia" 
+                                 loading="lazy"
+                                 width="3869"
+                                 height="2579">
+                            <p class="image-caption">Ragam Tradisi yang Tetap Lestari</p>
+                        </div>
+                    </div>
                     <div class="welcome-tip">
                         <i class="fas fa-lightbulb"></i>
                         <span>Tips: Anda juga bisa menggunakan navigasi di samping untuk langsung menuju ke wilayah tertentu</span>
@@ -164,43 +184,93 @@
             
             <div class="quick-nav-container">
                 <div class="region-card" data-region="sumatera-barat">
-                    <div class="region-card-icon">
-                        <i class="fas fa-mosque"></i>
+                    <div class="region-card-image">
+                        <img src="https://www.ruparupa.com/blog/wp-content/uploads/2020/10/Screen-Shot-2020-10-05-at-11.01.27-1024x668.png" 
+                             alt="Sumatera Barat" 
+                             loading="lazy"
+                             width="3870"
+                             height="2580">
+                        <div class="image-overlay"></div>
                     </div>
-                    <h3 class="region-card-title">Sumatera Barat</h3>
-                    <p class="region-card-desc">Rumah Gadang & Sistem Matrilineal</p>
+                    <div class="region-card-content">
+                        <div class="region-card-icon">
+                            <i class="fas fa-mosque"></i>
+                        </div>
+                        <h3 class="region-card-title">Sumatera Barat</h3>
+                        <p class="region-card-desc">Rumah Gadang & Sistem Matrilineal</p>
+                    </div>
                 </div>
                 
                 <div class="region-card" data-region="yogyakarta">
-                    <div class="region-card-icon">
-                        <i class="fas fa-gem"></i>
+                    <div class="region-card-image">
+                        <img src="https://temanimuwisata.com/wp-content/uploads/2025/01/keraton-yogyakarta.jpg" 
+                             alt="Yogyakarta" 
+                             loading="lazy"
+                             width="4032"
+                             height="3024">
+                        <div class="image-overlay"></div>
                     </div>
-                    <h3 class="region-card-title">Yogyakarta</h3>
-                    <p class="region-card-desc">Keraton & Filosofi Sumbu Filosofi</p>
+                    <div class="region-card-content">
+                        <div class="region-card-icon">
+                            <i class="fas fa-gem"></i>
+                        </div>
+                        <h3 class="region-card-title">Yogyakarta</h3>
+                        <p class="region-card-desc">Keraton & Filosofi Sumbu Filosofi</p>
+                    </div>
                 </div>
                 
                 <div class="region-card" data-region="bali">
-                    <div class="region-card-icon">
-                        <i class="fas fa-water"></i>
+                    <div class="region-card-image">
+                        <img src="https://images.unsplash.com/photo-1537996194471-e657df975ab4?q=80&w=4032&auto=format&fit=crop" 
+                             alt="Bali" 
+                             loading="lazy"
+                             width="4032"
+                             height="3024">
+                        <div class="image-overlay"></div>
                     </div>
-                    <h3 class="region-card-title">Bali</h3>
-                    <p class="region-card-desc">Tri Hita Karana & Sistem Subak</p>
+                    <div class="region-card-content">
+                        <div class="region-card-icon">
+                            <i class="fas fa-water"></i>
+                        </div>
+                        <h3 class="region-card-title">Bali</h3>
+                        <p class="region-card-desc">Tri Hita Karana & Sistem Subak</p>
+                    </div>
                 </div>
                 
                 <div class="region-card" data-region="toraja">
-                    <div class="region-card-icon">
-                        <i class="fas fa-mountain"></i>
+                    <div class="region-card-image">
+                        <img src="https://www.ruparupa.com/blog/wp-content/uploads/2022/02/toraja-houses-1500.jpg" 
+                             alt="Toraja" 
+                             loading="lazy"
+                             width="3858"
+                             height="2572">
+                        <div class="image-overlay"></div>
                     </div>
-                    <h3 class="region-card-title">Toraja</h3>
-                    <p class="region-card-desc">Tongkonan & Rambu Solo'</p>
+                    <div class="region-card-content">
+                        <div class="region-card-icon">
+                            <i class="fas fa-mountain"></i>
+                        </div>
+                        <h3 class="region-card-title">Toraja</h3>
+                        <p class="region-card-desc">Tongkonan & Rambu Solo'</p>
+                    </div>
                 </div>
                 
                 <div class="region-card" data-region="papua">
-                    <div class="region-card-icon">
-                        <i class="fas fa-feather-alt"></i>
+                    <div class="region-card-image">
+                        <img src="https://i.pinimg.com/originals/29/92/9f/29929fd06ad782782328bd3079235d5b.jpg" 
+                             alt="Papua" 
+                             loading="lazy"
+                             width="3870"
+                             height="2580">
+                        <div class="image-overlay"></div>
                     </div>
-                    <h3 class="region-card-title">Papua</h3>
-                    <p class="region-card-desc">Noken & Sistem Sasi</p>
+                    <div class="region-card-content">
+                        <div class="region-card-icon">
+                            <i class="fas fa-feather-alt"></i>
+                        </div>
+                        <h3 class="region-card-title">Papua</h3>
+                        <p class="region-card-desc">Noken & Sistem Sasi</p>
+                    </div>
                 </div>
             </div>
         </section>
@@ -257,7 +327,7 @@
         
         <div class="footer-bottom">
             <p>&copy; 2024 Kearifan Lokal Indonesia. Semua Hak Dilindungi.</p>
-            <p class="hd-badge">✨ Peta Interaktif | Video Edukasi | Optimized for 4K</p>
+            <p class="hd-badge">✨ Peta Interaktif | Video HD | Gambar 4K | Optimized for Performance</p>
         </div>
     </footer>
 
@@ -266,4 +336,4 @@
     <!-- Script utama -->
     <script src="script.js"></script>
 </body>
-</html>     
+</html>

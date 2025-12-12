@@ -1,4 +1,4 @@
-// Data Kearifan Lokal Indonesia dengan Video YouTube
+// Data Kearifan Lokal Indonesia (YouTube dihapus, gambar tetap sama)
 const budayaData = {
     "sumatera-barat": {
         nama: "Sumatera Barat",
@@ -17,9 +17,7 @@ const budayaData = {
                     "Ruangannya mencerminkan sistem matrilineal",
                     "Setiap ukiran memiliki makna filosofis tersendiri",
                     "Bangunan tahan gempa karena struktur yang fleksibel"
-                ],
-                videoId: "hKuVUHaYGoQ", // Video YouTube tentang Rumah Gadang
-                videoThumbnail: "https://img.youtu.be/hKuVUHaYGoQ?si=dpaEZ58hJGHrRj3m"
+                ]
             },
             {
                 id: 2,
@@ -33,9 +31,7 @@ const budayaData = {
                     "Laki-laki berperan sebagai mamak (paman) untuk kemenakan",
                     "Pernikahan tidak mengubah status kekerabatan perempuan",
                     "Sistem ini telah bertahan lebih dari 500 tahun"
-                ],
-                videoId: "Yf7pFc7v6kY", // Video YouTube tentang Matrilineal
-                videoThumbnail: "https://img.youtube.com/vi/Yf7pFc7v6kY/maxresdefault.jpg"
+                ]
             },
             {
                 id: 3,
@@ -49,9 +45,7 @@ const budayaData = {
                     "Digunakan dalam penyelesaian sengketa masyarakat",
                     "Mengatur berbagai upacara adat dan tradisi",
                     "Menjadi pedoman moral dan etika bermasyarakat"
-                ],
-                videoId: "X8Zz6Z5z5Z4", // Video YouTube tentang Adat Syarak
-                videoThumbnail: "https://img.youtube.com/vi/X8Zz6Z5z5Z4/maxresdefault.jpg"
+                ]
             }
         ],
         coordinates: [ -0.95, 100.353 ] // Koordinat untuk Sumatera Barat
@@ -73,9 +67,7 @@ const budayaData = {
                     "Dijadikan dasar penataan kota sejak abad ke-18",
                     "Melambangkan hubungan manusia dengan alam semesta",
                     "Diakui sebagai warisan budaya dunia oleh UNESCO"
-                ],
-                videoId: "w8QY2qZq5Z4", // Video YouTube tentang Sumbu Filosofi
-                videoThumbnail: "https://img.youtube.com/vi/w8QY2qZq5Z4/maxresdefault.jpg"
+                ]
             },
             {
                 id: 2,
@@ -89,9 +81,7 @@ const budayaData = {
                     "Masih menjadi pusat budaya dan tradisi Jawa",
                     "Setiap bangunan memiliki makna filosofis tertentu",
                     "Rutin mengadakan upacara adat tradisional"
-                ],
-                videoId: "qQ0TQ5W5R3E", // Video YouTube tentang Keraton
-                videoThumbnail: "https://img.youtube.com/vi/qQ0TQ5W5R3E/maxresdefault.jpg"
+                ]
             },
             {
                 id: 3,
@@ -105,9 +95,7 @@ const budayaData = {
                     "Proses pembuatan bisa memakan waktu berminggu-minggu",
                     "Setiap motif memiliki makna dan kegunaan khusus",
                     "Diakui UNESCO sebagai Warisan Kemanusiaan"
-                ],
-                videoId: "N7W0SFzTb8c", // Video YouTube tentang Batik
-                videoThumbnail: "https://img.youtube.com/vi/N7W0SFzTb8c/maxresdefault.jpg"
+                ]
             }
         ],
         coordinates: [ -7.7956, 110.3695 ] // Koordinat untuk Yogyakarta
@@ -129,9 +117,7 @@ const budayaData = {
                     "Mempengaruhi tata letak bangunan dan desa",
                     "Diimplementasikan dalam kehidupan sehari-hari",
                     "Menjadi kunci kelestarian budaya Bali"
-                ],
-                videoId: "dP15zlyra3c", // Video YouTube tentang Tri Hita Karana
-                videoThumbnail: "https://img.youtube.com/vi/dP15zlyra3c/maxresdefault.jpg"
+                ]
             },
             {
                 id: 2,
@@ -145,9 +131,7 @@ const budayaData = {
                     "Menggabungkan aspek teknis, sosial, dan spiritual",
                     "Dikelola secara demokratis oleh kelompok petani",
                     "Menjadi model pengelolaan air berkelanjutan"
-                ],
-                videoId: "x4S8R7Q0e_k", // Video YouTube tentang Subak
-                videoThumbnail: "https://img.youtube.com/vi/x4S8R7Q0e_k/maxresdefault.jpg"
+                ]
             },
             {
                 id: 3,
@@ -161,9 +145,7 @@ const budayaData = {
                     "Setiap pura memiliki fungsi dan dewa yang berbeda",
                     "Upacara melibatkan seni tari, musik, dan sesaji",
                     "Menjadi daya tarik budaya utama Bali"
-                ],
-                videoId: "wYeRqLnpL1s", // Video YouTube tentang Upacara Bali
-                videoThumbnail: "https://img.youtube.com/vi/wYeRqLnpL1s/maxresdefault.jpg"
+                ]
             }
         ],
         coordinates: [ -8.4095, 115.1889 ] // Koordinat untuk Bali
@@ -185,9 +167,7 @@ const budayaData = {
                     "Setiap ukiran memiliki makna simbolis",
                     "Menjadi pusat kegiatan adat dan keluarga",
                     "Dibangun menghadap utara (arah kehidupan)"
-                ],
-                videoId: "z8QY2qZq5Z4", // Video YouTube tentang Tongkonan
-                videoThumbnail: "https://img.youtube.com/vi/z8QY2qZq5Z4/maxresdefault.jpg"
+                ]
             },
             {
                 id: 2,
@@ -201,9 +181,7 @@ const budayaData = {
                     "Jenazah disemayamkan di Tongkonan sebelum dikubur",
                     "Makam biasanya di tebing atau liang batu",
                     "Menjadi atraksi budaya penting Toraja"
-                ],
-                videoId: "VzQ2v8q8w8k", // Video YouTube tentang Rambu Solo'
-                videoThumbnail: "https://img.youtube.com/vi/VzQ2v8q8w8k/maxresdefault.jpg"
+                ]
             },
             {
                 id: 3,
@@ -217,9 +195,7 @@ const budayaData = {
                     "Memadukan animisme dan penghormatan leluhur",
                     "Masih dipraktikkan bersama agama resmi",
                     "Menjadi dasar seluruh upacara adat Toraja"
-                ],
-                videoId: "x8QY2qZq5Z4", // Video YouTube tentang Aluk Todolo
-                videoThumbnail: "https://img.youtube.com/vi/x8QY2qZq5Z4/maxresdefault.jpg"
+                ]
             }
         ],
         coordinates: [ -2.9991, 119.8530 ] // Koordinat untuk Toraja
@@ -241,9 +217,7 @@ const budayaData = {
                     "Teknik pembuatan berbeda di setiap suku",
                     "Digunakan untuk menggendong bayi dan barang",
                     "Simbol kedewasaan perempuan Papua"
-                ],
-                videoId: "z8QY2qZq5Z4", // Video YouTube tentang Noken
-                videoThumbnail: "https://img.youtube.com/vi/z8QY2qZq5Z4/maxresdefault.jpg"
+                ]
             },
             {
                 id: 2,
@@ -257,9 +231,7 @@ const budayaData = {
                     "Melindungi sumber daya alam dari eksploitasi",
                     "Ada sanksi adat bagi pelanggar",
                     "Diakui sebagai sistem konservasi tradisional"
-                ],
-                videoId: "a1QY2qZq5Z4", // Video YouTube tentang Sasi
-                videoThumbnail: "https://img.youtube.com/vi/a1QY2qZq5Z4/maxresdefault.jpg"
+                ]
             },
             {
                 id: 3,
@@ -273,9 +245,7 @@ const budayaData = {
                     "Menggunakan batu vulkanik yang dipanaskan",
                     "Simbol persatuan dan kebersamaan",
                     "Masakan dimasak dalam lubang tanah"
-                ],
-                videoId: "b2QY2qZq5Z4", // Video YouTube tentang Bakar Batu
-                videoThumbnail: "https://img.youtube.com/vi/b2QY2qZq5Z4/maxresdefault.jpg"
+                ]
             }
         ],
         coordinates: [ -4.2699, 138.0804 ] // Koordinat untuk Papua
@@ -285,7 +255,6 @@ const budayaData = {
 // State Management
 let currentRegion = null;
 let modalOpen = false;
-let videoModalOpen = false;
 let map = null;
 
 // DOM Elements
@@ -465,7 +434,6 @@ function initEventListeners() {
     modalClose.addEventListener('click', closeModal);
     document.addEventListener('keydown', (e) => {
         if (e.key === 'Escape' && modalOpen) closeModal();
-        if (e.key === 'Escape' && videoModalOpen) closeVideoModal();
     });
 
     // Back to top
@@ -485,19 +453,6 @@ function initEventListeners() {
             
             if (regionId && wisdomId) {
                 openModal(regionId, wisdomId);
-            }
-        }
-        
-        // Video play buttons
-        if (e.target.classList.contains('video-play-btn') || 
-            e.target.closest('.video-play-btn')) {
-            e.preventDefault();
-            const card = e.target.closest('.wisdom-card');
-            const regionId = currentRegion;
-            const wisdomId = parseInt(card.getAttribute('data-wisdom-id'));
-            
-            if (regionId && wisdomId) {
-                playVideo(regionId, wisdomId);
             }
         }
         
@@ -584,17 +539,15 @@ function loadRegionContent(regionId) {
                                     <h3 class="wisdom-card-title">${wisdom.judul}</h3>
                                     <p class="wisdom-card-desc">${wisdom.deskripsiSingkat}</p>
                                     
-                                    <!-- Video Section -->
-                                    <div class="wisdom-card-video">
-                                        <div class="video-placeholder" data-video-id="${wisdom.videoId}">
-                                            <img src="${wisdom.videoThumbnail || 'https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg'}" 
-                                                 alt="Video ${wisdom.judul}" 
-                                                 loading="lazy">
-                                            <button class="video-play-btn">
-                                                <i class="fas fa-play"></i>
-                                            </button>
-                                            <div class="video-info">
-                                                <p>Tonton video tentang ${wisdom.judul}</p>
+                                    <!-- Image Gallery Section (Pengganti Video) -->
+                                    <div class="image-gallery-section">
+                                        <div class="image-gallery-placeholder">
+                                            <img src="${wisdom.gambar}" 
+                                                 alt="Galeri ${wisdom.judul}" 
+                                                 loading="lazy"
+                                                 class="gallery-main-image">
+                                            <div class="gallery-info">
+                                                <p><i class="fas fa-image"></i> Klik untuk melihat lebih detail</p>
                                             </div>
                                         </div>
                                     </div>
@@ -647,6 +600,23 @@ function showWelcomeContent() {
                 Indonesia adalah negara dengan kekayaan budaya yang luar biasa. Setiap wilayah memiliki kearifan lokal yang unik dan bernilai tinggi. 
                 Pilih salah satu wilayah di peta atau navigasi cepat di bawah untuk memulai eksplorasi Anda.
             </p>
+            
+            <!-- Welcome Images -->
+            <div class="welcome-images">
+                <div class="welcome-image-item">
+                    <img src="https://images.unsplash.com/photo-1552465011-b4e30bf7349d?q=80&w=3840&auto=format&fit=crop" 
+                         alt="Budaya Indonesia" 
+                         loading="lazy">
+                    <p class="image-caption">Keindahan Alam dan Budaya Nusantara</p>
+                </div>
+                <div class="welcome-image-item">
+                    <img src="https://images.unsplash.com/photo-1528164344705-47542687000d?q=80&w=3869&auto=format&fit=crop" 
+                         alt="Tradisi Indonesia" 
+                         loading="lazy">
+                    <p class="image-caption">Ragam Tradisi yang Tetap Lestari</p>
+                </div>
+            </div>
+            
             <div class="welcome-tip">
                 <i class="fas fa-lightbulb"></i>
                 <span>Tips: Anda juga bisa menggunakan navigasi di samping untuk langsung menuju ke wilayah tertentu</span>
@@ -692,27 +662,30 @@ function openModal(regionId, wisdomId) {
             </div>
         </div>
         
-        <!-- Video Section in Modal -->
-        <div class="modal-video-section">
-            <h4 class="modal-video-title">
-                <i class="fas fa-video"></i>
-                Video Dokumenter
-            </h4>
-            <div class="modal-video-container">
-                <iframe 
-                    src="https://www.youtube.com/embed/${wisdom.videoId}" 
-                    frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen>
-                </iframe>
-            </div>
-        </div>
-        
         <div class="modal-facts">
             <h4><i class="fas fa-info-circle"></i> Fakta Menarik:</h4>
             <ul>
                 ${wisdom.fakta.map(fact => `<li>${fact}</li>`).join('')}
             </ul>
+        </div>
+        
+        <!-- Additional Images Section -->
+        <div class="additional-images-section">
+            <h4><i class="fas fa-images"></i> Galeri Gambar</h4>
+            <div class="images-grid">
+                <div class="grid-image-item">
+                    <img src="${wisdom.gambar}" 
+                         alt="${wisdom.judul} - Detail 1" 
+                         loading="lazy"
+                         class="grid-image">
+                </div>
+                <div class="grid-image-item">
+                    <img src="${region.fotoUtama}" 
+                         alt="${region.nama}" 
+                         loading="lazy"
+                         class="grid-image">
+                </div>
+            </div>
         </div>
     `;
     
@@ -720,62 +693,6 @@ function openModal(regionId, wisdomId) {
     document.body.style.overflow = 'hidden';
     modalOverlay.classList.add('active');
     modalContainer.classList.add('active');
-}
-
-// Play Video in Fullscreen Modal
-function playVideo(regionId, wisdomId) {
-    const region = budayaData[regionId];
-    const wisdom = region.kearifan.find(w => w.id === wisdomId);
-    
-    if (!wisdom) return;
-    
-    // Create video modal
-    const videoModal = document.createElement('div');
-    videoModal.className = 'video-modal active';
-    videoModal.innerHTML = `
-        <div class="video-modal-content">
-            <button class="video-modal-close">
-                <i class="fas fa-times"></i>
-            </button>
-            <div class="video-player-container">
-                <iframe 
-                    src="https://www.youtube.com/embed/${wisdom.videoId}?autoplay=1" 
-                    frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen>
-                </iframe>
-            </div>
-            <div class="video-modal-info">
-                <h3 class="video-modal-title">${wisdom.judul}</h3>
-                <p class="video-modal-desc">${region.nama}</p>
-            </div>
-        </div>
-    `;
-    
-    document.body.appendChild(videoModal);
-    videoModalOpen = true;
-    document.body.style.overflow = 'hidden';
-    
-    // Add close event
-    videoModal.querySelector('.video-modal-close').addEventListener('click', () => {
-        closeVideoModal();
-    });
-    
-    videoModal.addEventListener('click', (e) => {
-        if (e.target === videoModal) {
-            closeVideoModal();
-        }
-    });
-}
-
-// Close Video Modal
-function closeVideoModal() {
-    const videoModal = document.querySelector('.video-modal');
-    if (videoModal) {
-        videoModal.remove();
-    }
-    videoModalOpen = false;
-    document.body.style.overflow = 'auto';
 }
 
 // Close Modal
@@ -813,7 +730,7 @@ window.addEventListener('popstate', (event) => {
     }
 });
 
-// Add CSS for animations
+// Add CSS for animations and additional styling
 const style = document.createElement('style');
 style.textContent = `
     .loading-region {
@@ -865,6 +782,96 @@ style.textContent = `
         transform: scale(1.1) !important;
         box-shadow: 0 4px 10px rgba(0,0,0,0.3) !important;
     }
+    
+    /* Image Gallery Section */
+    .image-gallery-section {
+        margin-top: 15px;
+    }
+    
+    .image-gallery-placeholder {
+        position: relative;
+        width: 100%;
+        height: 180px;
+        background: var(--neutral-light);
+        border-radius: var(--radius-md);
+        overflow: hidden;
+        cursor: pointer;
+        border: 2px solid rgba(46, 139, 87, 0.1);
+    }
+    
+    .gallery-main-image {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.5s ease;
+    }
+    
+    .image-gallery-placeholder:hover .gallery-main-image {
+        transform: scale(1.05);
+    }
+    
+    .gallery-info {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
+        padding: 10px;
+        color: white;
+        font-size: 0.9rem;
+    }
+    
+    .gallery-info p {
+        margin: 0;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+    
+    /* Additional Images in Modal */
+    .additional-images-section {
+        margin-top: 30px;
+        padding-top: 20px;
+        border-top: 2px solid var(--neutral-light);
+    }
+    
+    .additional-images-section h4 {
+        font-family: 'Poppins', sans-serif;
+        color: var(--primary-green);
+        margin-bottom: 15px;
+        font-size: 1.3rem;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+    
+    .additional-images-section h4 i {
+        color: var(--secondary-gold);
+    }
+    
+    .images-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+        margin-top: 10px;
+    }
+    
+    .grid-image-item {
+        border-radius: var(--radius-md);
+        overflow: hidden;
+        height: 150px;
+    }
+    
+    .grid-image {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.5s ease;
+    }
+    
+    .grid-image:hover {
+        transform: scale(1.05);
+    }
 `;
 document.head.appendChild(style);
 
@@ -879,9 +886,6 @@ function preloadImages() {
             const video = document.createElement('video');
             video.src = src;
             video.preload = 'auto';
-        } else {
-            const img = new Image();
-            img.src = src;
         }
     });
 }
